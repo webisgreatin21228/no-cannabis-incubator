@@ -2,6 +2,7 @@
 
 A static site powered by [Hugo](https://gohugo.io/) using the [Paige theme](https://themes.gohugo.io/themes/paige/).
 
+Visit the site at [https://webisgreatin21228.github.io/no-cannabis-incubator/](https://webisgreatin21228.github.io/no-cannabis-incubator/)
 ## Prerequisites
 
 - [Go](https://golang.org/dl/) (for installing Hugo)
@@ -25,20 +26,12 @@ git clone https://github.com/your-username/no-cannabis-incubator.git
 cd no-cannabis-incubator
 ```
 
-### 3. Add the Paige Theme
+### 3. Add Paige Theme Dependencies
+
+Dart SASS is required for the Paige theme. Install using brew or other [package managers](https://github.com/willfaught/paige?tab=readme-ov-file#setup):
 
 ```sh
-git submodule add https://github.com/willfaught/paige.git themes/paige
-```
-
-Or download it manually from the [Paige theme page](https://themes.gohugo.io/themes/paige/).
-
-### 4. Configure the Theme
-
-In your `config.toml` (or `config.yaml`), set:
-
-```toml
-theme = "paige"
+brew install sass/sass/sass
 ```
 
 ## Running the Site Locally
