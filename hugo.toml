@@ -11,3 +11,7 @@ path = "github.com/willfaught/paige"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
