@@ -4,7 +4,7 @@ baseURL = 'https://example.org/'
 languagecode = "en-us"
 languagedirection = "ltr"
 languagename = "English"
-title = "Say No to the Cannibis Incubator"
+title = "Short Title Summary"
 weight = 10
 
 [languages.en.params.paige.site]
