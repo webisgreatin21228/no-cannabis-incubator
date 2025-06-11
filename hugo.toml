@@ -1,6 +1,14 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Say NO To The Cannibis Incubator'
+
+[languages.en]
+languagecode = "en-us"
+languagedirection = "ltr"
+languagename = "English"
+title = "Say No to the Cannibis Incubator"
+weight = 10
+
+[languages.en.params.paige.site]
+description = "No Incubator at the Catonsville Armory"
 
 [markup.highlight]
 noclasses = false
@@ -12,6 +20,35 @@ path = "github.com/willfaught/paige"
 [markup.goldmark.renderer]
 unsafe = true
 
+[params.paige.pages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_next = true
+disable_prev = true
+disable_reading_time = true
+disable_series = false
+disable_toc = true
+disable_word_count = true
+
+[paige.pages.base_schema]
+isAccessibleForFree = true
+isFamilyFriendly = true
+
+[params.paige.site]
+disable_breadcrumbs = true
+disable_credit = true
+
+[params.paige.subpages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_reading_time = true
+disable_series = true
+disable_summary = true
+disable_word_count = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
