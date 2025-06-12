@@ -4,11 +4,11 @@ baseURL = 'https://opposethearmoryincubator.org/'
 languagecode = "en-us"
 languagedirection = "ltr"
 languagename = "English"
-title = "Oppose the Incubator"
+title = "Oppose the Armory Incubator"
 weight = 10
 
 [languages.en.params.paige.site]
-description = "Oppose The Cannabis Incubator at the Catonsville Armory"
+description = "Oppose the Cannabis Incubator at the Catonsville Armory"
 
 [markup.highlight]
 noclasses = false

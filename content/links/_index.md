@@ -10,6 +10,8 @@ title = 'Links'
 
 [BizJournals (2025-05-27)](https://www.bizjournals.com/baltimore/news/2025/05/27/cannabis-catonsville-armory-incubator-dispensary.html)
 
+[WBAL (2024-11-21)](https://www.wbaltv.com/article/cannabis-incubator-plan-catonsville-resident-concerns/62980468)
+
 <h3 class="fw-bold h3" style="margin-top: 2rem">Reference Documents</h3>
 
 [Cannabis Laws and Regulations](https://cannabis.maryland.gov/Documents/2024_Laws_and_Regulations/Zoning%20Update%20%281%29.pdf)
