@@ -6,9 +6,9 @@ title = 'Links'
 
 <h3 class="fw-bold h3" style="margin-top: 2rem">News Articles</h3>
 
-[Baltimore Sun - 2025-05-28](https://www.baltimoresun.com/2025/05/28/catonsville-armory-planned-to-become-state-run-cannabis-incubator)
+[Baltimore Sun (2025-05-28)](https://www.baltimoresun.com/2025/05/28/catonsville-armory-planned-to-become-state-run-cannabis-incubator)
 
-[BizJournals - 2025-05-27](https://www.bizjournals.com/baltimore/news/2025/05/27/cannabis-catonsville-armory-incubator-dispensary.html)
+[BizJournals (2025-05-27)](https://www.bizjournals.com/baltimore/news/2025/05/27/cannabis-catonsville-armory-incubator-dispensary.html)
 
 <h3 class="fw-bold h3" style="margin-top: 2rem">Reference Documents</h3>
 

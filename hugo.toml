@@ -4,11 +4,11 @@ baseURL = 'https://example.org/'
 languagecode = "en-us"
 languagedirection = "ltr"
 languagename = "English"
-title = "Short Title Summary"
+title = "Oppose the Incubator"
 weight = 10
 
 [languages.en.params.paige.site]
-description = "No Cannabis Incubator at the Catonsville Armory"
+description = "Oppose The Cannabis Incubator at the Catonsville Armory"
 
 [markup.highlight]
 noclasses = false

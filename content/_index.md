@@ -8,7 +8,7 @@ disable_sections = true
 
 {{< paige/image alt="Landscape" breakpoints=true class="mt-3 object-fit-cover rounded-4 shadow" fetchpriority="high" height="20rem" loading="eager" process="webp" src="images/catonsville-armory-front.png" width="100%" >}}
 
-<h1 class="fw-bold h1 text-center" style="margin-top: 2rem">Say No to a Cannabis Incubator at the Catonsville Armory!</h1>
+<h1 class="fw-bold h1 text-center" style="margin-top: 2rem">Oppose the Cannabis Incubator at the Catonsville Armory!</h1>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
@@ -19,7 +19,7 @@ disable_sections = true
 </div>
 
 <p class="lead text-center">
-    <a href="https://www.change.org/p/oppose-the-cannabis-incubator-near-catonsville-elementary-school">Join the Movement</a>
+    <a href="https://www.change.org/p/oppose-the-cannabis-incubator-near-catonsville-elementary-school" target="_blank">Join the Movement</a>
 </p>
 
 ---
