@@ -1,4 +1,5 @@
 +++
+description = '**Latest News!** MCA Produces Document Addressing Our Petition Concerns. [Learn more here.](/updates/mca-overview-document/)'
 [paige.pages]
 disable_reading_time = true
 disable_word_count = true

@@ -1,6 +1,6 @@
 +++
 date = '2025-06-25T20:13:58-04:00'
-description = "The Baltimore Banner Covers Our Petition."
+description = 'The Baltimore Banner Covers Our Petition.'
 title = 'Banner Story'
 +++
 
