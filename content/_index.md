@@ -1,5 +1,5 @@
 +++
-description = '**Latest News!** We did it! Gov Moore Announces Change of Location. [Learn more here.](/updates/we-did-it/)'
+description = '**Latest News!**  &#127881;We did it!&#127881; Gov Moore Announces Change of Location. [Learn more here.](/updates/we-did-it/)'
 [paige.pages]
 disable_reading_time = true
 disable_word_count = true
